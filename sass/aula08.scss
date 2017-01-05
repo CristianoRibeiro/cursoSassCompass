@@ -1,0 +1,16 @@
+@import "meus-mixins.scss";
+@import "aula05.scss";
+
+.noticia{
+   background-color:$cor-verde; 
+   border:2px solid #00aa00;
+   @include rounded-corners;
+}
+
+a{
+   @include link-colors(blue,red,green);
+}
+
+link{
+   @include link-colors2(blue,red);
+}

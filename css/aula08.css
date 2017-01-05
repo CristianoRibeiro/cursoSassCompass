@@ -1,0 +1,62 @@
+/* line 11, ../sass/aula05.scss */
+.vermelho {
+  color: red;
+}
+
+/* line 14, ../sass/aula05.scss */
+.amarelo {
+  color: yellow;
+}
+
+/* line 17, ../sass/aula05.scss */
+.cor-verde {
+  color: green;
+}
+
+/* line 21, ../sass/aula05.scss */
+.error {
+  font-color: white;
+  background-color: #abcdef;
+  width: 300px;
+  border: 1px #f00;
+}
+
+/* line 29, ../sass/aula05.scss */
+.select {
+  border: 1px black solid;
+}
+
+/* line 4, ../sass/aula08.scss */
+.noticia {
+  background-color: green;
+  border: 2px solid #00aa00;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+}
+
+/* line 10, ../sass/aula08.scss */
+a {
+  color: blue;
+}
+/* line 9, ../sass/meus-mixins.scss */
+a:hover {
+  color: red;
+}
+/* line 10, ../sass/meus-mixins.scss */
+a:visited {
+  color: green;
+}
+
+/* line 14, ../sass/aula08.scss */
+link {
+  color: blue;
+}
+/* line 16, ../sass/meus-mixins.scss */
+link:hover {
+  color: red;
+}
+/* line 17, ../sass/meus-mixins.scss */
+link:visited {
+  color: blue;
+}

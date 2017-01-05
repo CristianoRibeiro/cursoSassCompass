@@ -1,7 +1,9 @@
-.vermelho {
-  color: red; }
+/* line 1, ../sass/aula03.scss */
+.green {
+  color: green;
+}
 
+/* line 4, ../sass/aula03.scss */
 .azul {
-  color: blue; }
-
-/*# sourceMappingURL=aula03.css.map */
+  color: blue;
+}
